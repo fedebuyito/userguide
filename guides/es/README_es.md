@@ -4,7 +4,7 @@
   <img src="/guides/en/images/SeedSigner_Logo.png" alt="Logo de SeedSigner" width="400"/>
 </div>
 
-SeedSigner es un dispositivo de firma de Bitcoin de código abierto y con separación de aire que te ayuda a gestionar frases semilla y firmar transacciones de forma segura. Esta guía proporciona instrucciones paso a paso organizadas por flujos de trabajo comunes.
+SeedSigner es un dispositivo de firma de Bitcoin de código abierto y aislado de cualquier conexión digital que te ayuda a gestionar tus semillas y firmar transacciones de forma segura. Esta guía proporciona instrucciones paso a paso organizadas por flujos de trabajo.
 
 ## 📋 Tabla de Contenidos
 
@@ -14,7 +14,7 @@ SeedSigner es un dispositivo de firma de Bitcoin de código abierto y con separa
 - [Fundamentos de Navegación](/guides/es/getting_started/navigation_basics.md)
 - [Apagado Seguro](/guides/es/getting_started/powering_off_safely.md)
 - [Reiniciar tu Dispositivo](/guides/es/getting_started/restarting_your_device.md)
-
+***REVISADO HAST AQUI***FEDEBUYITO
 ### 🌱 Gestión de Semillas
 
 - **Crear Nuevas Semillas**
